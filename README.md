@@ -45,8 +45,10 @@ Gardenbag
 ├── uyeindirim.jpeg     # Üye indirim görseli
 ├── uyeolma             # Üye kayıt işlemleri
 ```
-##Proje Ekibi
--**Kadir IR**:([GitHub Profili](https://github.com/KadirIR))
--**Didem GÜMÜŞ**: ([GitHub Profili](https://github.com/DidemGumus))
+
+-- **Proje Ekibi:** --
+
+- **Kadir Ir**: [GitHub Profili](https://github.com/KadirIR)
+- **Didem Gümüş**: [GitHub Profili](https://github.com/DidemGumus)
 
 
