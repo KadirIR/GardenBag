@@ -46,7 +46,7 @@ Gardenbag
 ├── uyeolma             # Üye kayıt işlemleri
 ```
 ##Proje Ekibi
-Kadir IR([GitHub Profili](https://github.com/KadirIR))
-Didem GÜMÜŞ ([GitHub Profili](https://github.com/DidemGumus))
+-**Kadir IR**:([GitHub Profili](https://github.com/KadirIR))
+-**Didem GÜMÜŞ**: ([GitHub Profili](https://github.com/DidemGumus))
 
 
